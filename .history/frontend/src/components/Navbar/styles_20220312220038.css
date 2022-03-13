@@ -1,0 +1,13 @@
+header {
+  background-color: var(--color-primary);
+}
+
+.dsmovie-nav-content {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.dsmovie-contact-container {
+  display: flex;
+}
